@@ -8,8 +8,8 @@
     },
     "authors": [
         {
-            "name": "iotch",
-            "homepage": ""
+            "name": "iotch/log contributors",
+            "homepage": "https://github.com/iotch/log/graphs/contributors"
         }
     ],
     "autoload": {
