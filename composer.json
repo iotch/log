@@ -1,0 +1,24 @@
+{
+    "name": "iotch/log",
+    "description": "PSR-3 compliant logger",
+    "version": "0.1.0",
+    "license": "MIT",
+    "provide": {
+        "psr/log-implementation": "1.0.0"
+    },
+    "authors": [
+        {
+            "name": "iotch",
+            "homepage": ""
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "iotch\\Log\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.0",
+        "psr/log": "~1.0"
+    }
+}
